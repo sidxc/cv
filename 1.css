@@ -1,0 +1,195 @@
+body 
+{
+    background-color:#fff ;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514e;
+    
+    
+    margin: 0;
+}
+hr{
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin:100px auto;
+}
+p
+{
+    line-height: 1.75;
+}
+h1{
+     margin: 50px auto 0 auto;
+     font-family: 'Sacramento', cursive;
+     font-size: 80px;
+     line-height: 1.2;
+     color: #45b29a;
+     
+}
+h2
+{
+    
+    color: #45b29a;
+     font-weight: normal;
+    line-height: 1;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 10px;
+    
+}
+.help
+{
+    font-weight: 450;
+    font-size: 50px;
+    color: #1e836c;
+}
+.btn {
+    -webkit-border-radius: 6;
+    -moz-border-radius: 6;
+    border-radius: 6px;
+    font-family: Courier New;
+    color: #1b7f69;
+    font-size: 23px;
+    background: #45b29a;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #389982;
+    text-decoration: none;
+  }
+.paras
+{
+    width: 40%;
+    margin: 50px auto 60px ;
+}
+.avail
+{
+    color:#45b29a ;
+    font-size: 20px;
+    
+}
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+}
+.land
+{
+    margin-top: 200px;
+    
+    
+}
+.user
+{
+    width:100px;
+    height:100px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+a
+{
+    color:#45b29a ;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover
+{
+    color:#1b7f69 ;
+}
+.sidak
+{
+
+    text-decoration: underline;
+}
+.footerr
+{
+    font-size: 12px;
+    font-family: 'Montserrat', sans-serif;
+    color: #45b29a ;
+
+}
+
+
+.upper
+{
+    background-color: #e0ebe8;
+    padding-top: 100px;
+    position:relative;
+    
+
+}
+.middle
+{
+ 
+margin: 80px 0;
+}
+
+span{
+    text-decoration: underline;
+}
+.bottom
+{
+    background-color: #e0ebe8;
+    padding: 40px 0 16px 0;
+
+}
+.upper-c
+{
+    position:relative;
+    left:400px;
+    top:80px;
+}
+.introo
+{
+    width:25%;
+    margin: 0 auto 0 auto;
+    margin-bottom: 20px;
+    
+}
+.what
+{
+    font-weight: 800;
+    margin-top: 70px;
+    font-size: 40px;
+    color:  #1e836c;
+    font-weight: 450;
+    font-size: 50px;
+    
+}
+.hi
+{
+    font-weight: 700;
+    font-size: 30px;
+}
+.bottom-c
+{
+    position:relative;
+    left: 20px;
+    bottom: 450px;;
+}
+.web
+{
+    width: 100px;
+    height: 100px;
+    float: right;
+    margin-left: 30px;
+}
+.coding
+{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-right: 30px;
+   
+}
+.skill-row
+{
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align:left;
+    
+}
+
+
+
